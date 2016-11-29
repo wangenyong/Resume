@@ -63,6 +63,8 @@
 * Android开发：Java / Android Studio
 * iOS开发：Swift / Objective-C / Xcode
 * 跨平台混合开发：React Native / JavaScript / Redux
+* 设计模式：MVC / MVP
+* UI设计：Android Design / iOS HIG / Sketch
 * 版本管理、文档：Git / MarkDown
 * 操作系统： Mac OS / Linux
 
