@@ -31,7 +31,7 @@
 
 #### 在线视频教育 Android 端 app 开发
 
-负责 Android 客户端的设计、开发及测试，app 主要功能包括在线视频播放、新闻资讯、问答知识库及考试栏目，因为商务推广不成功未发布至应用商店，可演示。
+负责 Android 客户端的设计、开发及测试，app 主要功能包括在线视频播放、新闻资讯、问答知识库及考试栏目，因为商务推广不成功未发布至应用商店。
 
 #### 昆明市西山区工商局 随身315 app 开发
 
@@ -49,13 +49,13 @@
 
 #### 大水库 （Android版）
 
-创建开发库，对 Android 开发中常用的视图、工具和组件进行归纳和效果测试，演示app位于 [weytest](https://github.com/wangenyong/weytest)，依赖的库文件部署在公司局域网 Maven 服务器内，所以直接下载运行会无法获取该依赖。
+创建开发库，对 Android 开发中常用的视图、工具和组件进行归纳和效果测试，演示app位于 [weytest](https://github.com/wangenyong/weytest)，依赖的库文件部署在公司局域网 Maven 服务器内，所以直接下载运行会无法获取该依赖，可现场演示。
 
 #### 技术文章
 
-* [NSDate 的使用方法](http://www.dswey.com/2015/11/27/nsdate-usage/)
-* [在 CentOS 上搭建内部 Maven 服务器](http://www.dswey.com/2015/10/10/private-maven-server/)
+* [React Native 集成百度地图](http://www.dswey.com/2016/07/29/react-native-baidu-map/)
 * [Android Zxing 二维码简化](http://www.dswey.com/2015/01/21/android-zxing/)
+* [iOS UIView Animation 和 Core Animation](http://www.dswey.com/2014/11/14/uiview-animation-and-core-animation/)
 
 ## 技能清单
 
