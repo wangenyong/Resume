@@ -11,13 +11,19 @@
 * 工作年限：6年
 * 技术博客：http://www.dswey.com
 * Github：https://github.com/wangenyong
-* 期望职位：Android / iOS 开发工程师
-* 期望薪资：7k~10k
+* 期望职位：Android 开发工程师
+* 期望薪资：10k~15k
 * 期望城市：昆明
 
 ## 工作经历
 
-### 昆明福乾龙科技有限公司 （2013.10~至今）
+### 昆明黑马软件股份有限公司（2016.12~2017.7）
+
+* 职责：别痛风应用 Android 客户端的重构、开发及维护。
+
+使用 MVP + Retrofit + RxJava + Dagger 架构对别痛风 Android 客户端进行重构，别痛风是一个针对痛风患者的健康管理应用，包含嘌呤查询、痛风知识、社区等诸多功能，各大应用市场均可下载。
+
+### 昆明福乾龙科技有限公司 （2013.10~2016.12）
 
 * 职责：移动端开发（Android、iOS）
 
@@ -43,13 +49,13 @@
 
 ## 其他项目
 
+#### [dsmvp](https://github.com/wangenyong/dsmvp)
+
+自己根据实际经验总结的 Android MVP架构实现方式，主要用到 Retrofit 、RxJava 等第三方库，可根据实际项目进行定制修改。
+
 #### 大水日记（iOS版）
 
 个人开发的一款日记应用，没有复杂的功能，专注于用文字记录生活；为了保证日记的私密性，启用指纹验证功能，不采用云端备份，而是支持直接生成PDF格式文档，可通过邮件或AirDrop保存。[苹果商店链接](https://appsto.re/cn/GyOZab.i)
-
-#### 大水库 （Android版）
-
-创建开发库，对 Android 开发中常用的视图、工具和组件进行归纳和效果测试，演示app位于 [weytest](https://github.com/wangenyong/weytest)，依赖的库文件部署在公司局域网 Maven 服务器内，所以直接下载运行会无法获取该依赖，可现场演示。
 
 #### 技术文章
 
@@ -59,14 +65,15 @@
 
 ## 技能清单
 
-* 英语：CET-6 / 能够查阅Android和iOS官方英文文档 / 习惯在stackoverflow查找问题解决方案
+* 英语：CET-6 / 能够查阅 Android 和 iOS 官方英文文档 / 习惯在 stackoverflow 查找问题解决方案
 * Android开发：Java / Android Studio
 * iOS开发：Swift / Objective-C / Xcode
 * 跨平台混合开发：React Native / JavaScript / Redux
 * 设计模式：MVC / MVP
 * UI设计：Android Design / iOS HIG / Sketch
-* 版本管理、文档：Git / MarkDown
+* 版本管理、文档：Git / SVN / MarkDown
 * 操作系统： Mac OS / Linux
+* 其他：了解微信小程序的开发，了解后端 beego 的使用。
 
 ## 致谢
 
